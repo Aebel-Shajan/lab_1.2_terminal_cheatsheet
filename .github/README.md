@@ -1,1 +1,1 @@
-terminal_cheatsheet.md
+../terminal_cheatsheet.md
