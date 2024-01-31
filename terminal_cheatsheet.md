@@ -18,13 +18,17 @@ Useful commands to do useful stuff
 
 
 # Git Commands
-|   Command    | Description                             |
-|:------------:|-----------------------------------------|
-| ```clone```  | Clone a repository into a new directory |
-|  ```init```  | Create an empty Git repository          |
-|  ```add```   | Add file contents to the index          |
-|  ```log```   | Show commit logs                        |
-| ```status``` | Show the working tree status            |
-| ```commit``` | Record changes to the repository        |
-|  ```push```  | Push local commits to github repo       |
-| ```revert``` | Revert specific commit                  |
+|     Command     | Description                             |
+|:---------------:|-----------------------------------------|
+|  ```git ___```  |                                         |
+|   ```clone```   | Clone a repository into a new directory |
+|   ```init```    | Create an empty Git repository          |
+|    ```add```    | Add file contents to the index          |
+|    ```log```    | Show commit logs                        |
+|  ```status```   | Show the working tree status            |
+|  ```commit```   | Record changes to the repository        |
+|   ```push```    | Push local commits to github repo       |
+|  ```revert```   | Revert specific commit                  |
+| ```shortcuts``` |                                         |
+|    ```gst```    | git status                              |
+|    ```gaa```    | git add --all                           |
